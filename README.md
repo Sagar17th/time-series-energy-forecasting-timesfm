@@ -18,4 +18,4 @@ Python, Pandas, NumPy, Statsmodels, TimesFM
 3. Run all cells
 
 ## Output
-![Forecast](results/output.png)
+![Forecast](output.png)
